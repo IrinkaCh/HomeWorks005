@@ -1,0 +1,15 @@
+C:\Users\123ir\Desktop\Учёба\HomeWorks005\HomeWorks005\Tasok01FindEvenCountNumbers\bin\Debug\net6.0\Tasok01FindEvenCountNumbers.exe
+C:\Users\123ir\Desktop\Учёба\HomeWorks005\HomeWorks005\Tasok01FindEvenCountNumbers\bin\Debug\net6.0\Tasok01FindEvenCountNumbers.deps.json
+C:\Users\123ir\Desktop\Учёба\HomeWorks005\HomeWorks005\Tasok01FindEvenCountNumbers\bin\Debug\net6.0\Tasok01FindEvenCountNumbers.runtimeconfig.json
+C:\Users\123ir\Desktop\Учёба\HomeWorks005\HomeWorks005\Tasok01FindEvenCountNumbers\bin\Debug\net6.0\Tasok01FindEvenCountNumbers.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks005\HomeWorks005\Tasok01FindEvenCountNumbers\bin\Debug\net6.0\Tasok01FindEvenCountNumbers.pdb
+C:\Users\123ir\Desktop\Учёба\HomeWorks005\HomeWorks005\Tasok01FindEvenCountNumbers\obj\Debug\net6.0\Tasok01FindEvenCountNumbers.csproj.AssemblyReference.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks005\HomeWorks005\Tasok01FindEvenCountNumbers\obj\Debug\net6.0\Tasok01FindEvenCountNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123ir\Desktop\Учёба\HomeWorks005\HomeWorks005\Tasok01FindEvenCountNumbers\obj\Debug\net6.0\Tasok01FindEvenCountNumbers.AssemblyInfoInputs.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks005\HomeWorks005\Tasok01FindEvenCountNumbers\obj\Debug\net6.0\Tasok01FindEvenCountNumbers.AssemblyInfo.cs
+C:\Users\123ir\Desktop\Учёба\HomeWorks005\HomeWorks005\Tasok01FindEvenCountNumbers\obj\Debug\net6.0\Tasok01FindEvenCountNumbers.csproj.CoreCompileInputs.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks005\HomeWorks005\Tasok01FindEvenCountNumbers\obj\Debug\net6.0\Tasok01FindEvenCountNumbers.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks005\HomeWorks005\Tasok01FindEvenCountNumbers\obj\Debug\net6.0\refint\Tasok01FindEvenCountNumbers.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks005\HomeWorks005\Tasok01FindEvenCountNumbers\obj\Debug\net6.0\Tasok01FindEvenCountNumbers.pdb
+C:\Users\123ir\Desktop\Учёба\HomeWorks005\HomeWorks005\Tasok01FindEvenCountNumbers\obj\Debug\net6.0\Tasok01FindEvenCountNumbers.genruntimeconfig.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks005\HomeWorks005\Tasok01FindEvenCountNumbers\obj\Debug\net6.0\ref\Tasok01FindEvenCountNumbers.dll

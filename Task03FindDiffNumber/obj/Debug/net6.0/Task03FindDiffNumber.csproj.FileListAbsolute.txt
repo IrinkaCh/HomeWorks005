@@ -1,0 +1,15 @@
+C:\Users\123ir\Desktop\Учёба\HomeWorks005\HomeWorks005\Task03FindDiffNumber\bin\Debug\net6.0\Task03FindDiffNumber.exe
+C:\Users\123ir\Desktop\Учёба\HomeWorks005\HomeWorks005\Task03FindDiffNumber\bin\Debug\net6.0\Task03FindDiffNumber.deps.json
+C:\Users\123ir\Desktop\Учёба\HomeWorks005\HomeWorks005\Task03FindDiffNumber\bin\Debug\net6.0\Task03FindDiffNumber.runtimeconfig.json
+C:\Users\123ir\Desktop\Учёба\HomeWorks005\HomeWorks005\Task03FindDiffNumber\bin\Debug\net6.0\Task03FindDiffNumber.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks005\HomeWorks005\Task03FindDiffNumber\bin\Debug\net6.0\Task03FindDiffNumber.pdb
+C:\Users\123ir\Desktop\Учёба\HomeWorks005\HomeWorks005\Task03FindDiffNumber\obj\Debug\net6.0\Task03FindDiffNumber.csproj.AssemblyReference.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks005\HomeWorks005\Task03FindDiffNumber\obj\Debug\net6.0\Task03FindDiffNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123ir\Desktop\Учёба\HomeWorks005\HomeWorks005\Task03FindDiffNumber\obj\Debug\net6.0\Task03FindDiffNumber.AssemblyInfoInputs.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks005\HomeWorks005\Task03FindDiffNumber\obj\Debug\net6.0\Task03FindDiffNumber.AssemblyInfo.cs
+C:\Users\123ir\Desktop\Учёба\HomeWorks005\HomeWorks005\Task03FindDiffNumber\obj\Debug\net6.0\Task03FindDiffNumber.csproj.CoreCompileInputs.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks005\HomeWorks005\Task03FindDiffNumber\obj\Debug\net6.0\Task03FindDiffNumber.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks005\HomeWorks005\Task03FindDiffNumber\obj\Debug\net6.0\refint\Task03FindDiffNumber.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks005\HomeWorks005\Task03FindDiffNumber\obj\Debug\net6.0\Task03FindDiffNumber.pdb
+C:\Users\123ir\Desktop\Учёба\HomeWorks005\HomeWorks005\Task03FindDiffNumber\obj\Debug\net6.0\Task03FindDiffNumber.genruntimeconfig.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks005\HomeWorks005\Task03FindDiffNumber\obj\Debug\net6.0\ref\Task03FindDiffNumber.dll
